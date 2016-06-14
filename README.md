@@ -1,6 +1,6 @@
 # py_PhoneBook
 이번에도 dic, 클래스, 함수, file io등등의 예제를 이용하여 만든 연습용 프로그램이다.
-이름하여 'Just_PhoneBook'
+이름하여 'PhoneBook' 너무나도 간단한 이름...
 
 **※Python 3.x에서만 작동합니다. Python 2.x에선 작동을 보장하지 않습니다!!**
 
