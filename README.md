@@ -1,4 +1,4 @@
-# Just_PhoneBook
+# py_PHONEBOOK
 이번에도 dic, 클래스, 함수, file io등등의 예제를 이용하여 만든 연습용 프로그램이다.
 이름하여 'Just_PhoneBook'
 
